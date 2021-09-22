@@ -1,7 +1,7 @@
 ### Hi there, I'm Aras. 👋
 
 
-- 📋 Download my resume [here](https://github.com/amvitkus/amvitkus/blob/master/AVresumee.pdf)
+- 📋 Download my resume [here](https://github.com/amvitkus/amvitkus/blob/master/AVresume.pdf)
 
 <!--
 **amvitkus/amvitkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
