@@ -1,7 +1,14 @@
 ### Hi there, I'm Aras. 👋
 
+- 🎓 Computer Science graduate (BSc) from University of Illinois at Springfield
 
-- 📋 Download my resume [here](https://github.com/amvitkus/amvitkus/blob/master/AVResume.pdf)
+- 💻 IT Analyst at GreenEcho LLC.
+
+- ⚡ I'm focusing on using Kotlin for Android and game development.
+
+- 💬 Check out my website [here.](https://arasvitkus.com/)
+
+- 📋 Download my resume [here.](https://github.com/amvitkus/amvitkus/blob/master/AVResume.pdf).
 
 <!--
 **amvitkus/amvitkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
