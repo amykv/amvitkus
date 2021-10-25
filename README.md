@@ -1,6 +1,6 @@
 ### Hi there, I'm Aras. 👋
 
-- 🎓 Computer Science graduate (BSc) from University of Illinois at Springfield
+- 🎓 Computer Science graduate (B.S.) from University of Illinois at Springfield
 
 - 💻 IT Analyst at GreenEcho LLC.
 
