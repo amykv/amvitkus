@@ -4,7 +4,7 @@
 
 - 💻 IT Analyst at GreenEcho LLC.
 
-- ⚡ I'm focusing on using Kotlin for Android and game development.
+- ⚡ I'm focusing on using Kotlin for Android and game development. Also learning full stack MEAN development.
 
 - 💬 Check out my website [here.](https://arasvitkus.com/)
 
