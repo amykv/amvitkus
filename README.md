@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science graduate (B.S.) from University of Illinois at Springfield
 
-- 💻 IT Analyst at GreenEcho LLC.
+- 💻 Software Quality Assurance Engineer at Whirlpool Corporation.
 
 - ⚡ I'm focusing on using Kotlin for Android and game development. Also learning full stack MEAN development.
 
