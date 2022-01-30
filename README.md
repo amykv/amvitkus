@@ -4,7 +4,7 @@
 
 - 💻 Software Quality Assurance Engineer at Whirlpool Corporation.
 
-- ⚡ I'm focusing on using Kotlin for Android and game development.
+- ⚡ I'm focusing on learning Kotlin and MEAN stack for web development.
 - 💬 Check out my website [here.](https://arasvitkus.com/)
 
 - 📋 Download my resume [here.](https://github.com/amvitkus/amvitkus/blob/master/AVResume.pdf)
