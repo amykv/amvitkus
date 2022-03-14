@@ -7,7 +7,9 @@
 - ⚡ I'm focusing on learning Kotlin for desktop and mobile development.
 - 💬 Check out my website [here.](https://arasvitkus.com/)
 
+<!--
 - 📋 Download my resume [here.](https://github.com/amvitkus/amvitkus/blob/master/AVResume.pdf)
+- -->
 
 <!--
 **amvitkus/amvitkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +22,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
