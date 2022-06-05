@@ -1,12 +1,12 @@
-### Hi there, I'm Aras. 👋
+### Hello, I'm Aras.
 
-- 🎓 Computer Science graduate (B.S.) from University of Illinois at Springfield
+Computer Science graduate (B.S.) from University of Illinois at Springfield
 
-- 💻 Software Quality Assurance Engineer at Whirlpool Corporation.
-
+Software Quality Assurance Engineer at Whirlpool Corporation.
+<!--
 - ⚡ I'm focusing on learning Kotlin for desktop and mobile development.
 - 💬 Check out my website [here.](https://arasvitkus.com/)
-
+-->
 <!--
 - 📋 Download my resume [here.](https://github.com/amvitkus/amvitkus/blob/master/AVResume.pdf)
 - -->
