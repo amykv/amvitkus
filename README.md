@@ -1,4 +1,4 @@
-Hi 👋 My name is Aras
+Hello. My name is Aras.
 ============================
 
 Software Developer
