@@ -6,7 +6,7 @@ Software Developer
 
 I have a focus on building applications using Kotlin for desktop and mobile applications.
 
-*   🌍  I'm based in United States
+*   🌍  I'm based in The United States
 *   🖥️  See my portfolio at [this location](http://arasvitkus.com)
 *   ✉️  You can contact me at [amvitkus@gmail.com](mailto:amvitkus@gmail.com)
 *   🧠  I'm learning Kotlin
@@ -21,11 +21,6 @@ I have a focus on building applications using Kotlin for desktop and mobile appl
                     </p>
                     
 
-                  ### Socials
-                  
-                  <p align="left"> <a href="https://www.github.com/amvitkus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arasvitkus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
