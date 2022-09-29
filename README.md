@@ -10,7 +10,7 @@ I have a focus on building applications using Kotlin for desktop and mobile appl
 *   🖥️  See my website [here](http://arasvitkus.com)
 *   ✉️  You can contact me at [amvitkus@gmail.com](mailto:amvitkus@gmail.com)
 *   🧠  I'm learning Kotlin
-*   🤝  I'm open to collaborating on Kotlin projects
+*   🤝  I'm open to collaborating on Kotlin related projects
 
 ### Skills
 <p align="left">
