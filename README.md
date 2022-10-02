@@ -7,9 +7,8 @@ Software Developer
 I have a focus on building applications using Kotlin for desktop and mobile applications.
 
 *   🌍  I'm based in The United States
-*   🖥️  See my website [here](http://arasvitkus.com)
+*   🖥️  See my website [here](https://arasvitkus.com)
 *   ✉️  You can contact me at [amvitkus@gmail.com](mailto:amvitkus@gmail.com)
-*   🧠  I'm learning Kotlin
 *   🤝  I'm open to collaborating on Kotlin related projects
 
 ### Skills
