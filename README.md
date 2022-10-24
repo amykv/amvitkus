@@ -4,7 +4,7 @@ Hello. My name is Aras.
 Software Developer
 ------------------
 
-I have a focus on building applications using Kotlin for desktop and mobile applications.
+I have a focus on building applications using Kotlin for desktop and mobile devices.
 
 *   🌍  I'm based in The United States
 *   🖥️  See my website [here](https://arasvitkus.com)
