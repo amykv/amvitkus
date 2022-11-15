@@ -4,12 +4,9 @@ Hello. My name is Aras.
 Software Developer
 ------------------
 
-I have a focus on building applications using Kotlin for desktop and mobile devices.
-
 *   🌍  I'm based in The United States
 *   🖥️  See my website [here](https://arasvitkus.com)
 *   ✉️  You can contact me at [amvitkus@gmail.com](mailto:amvitkus@gmail.com)
-*   🤝  I'm open to collaborating on Kotlin related projects
 
 ### Skills
 <p align="left">
