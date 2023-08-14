@@ -5,7 +5,6 @@ Software Developer
 ------------------
 
 *   🌍  I'm based in The United States
-*   🖥️  See my website [here](https://arasvitkus.com)
 *   ✉️  You can contact me at [amvitkus@gmail.com](mailto:amvitkus@gmail.com)
 
 ### Skills
